@@ -62,6 +62,41 @@ This project demonstrates a **simplified AES-128 encryption/decryption algorithm
 ```bash
 javac SimplifiedAES128.java
 java SimplifiedAES128
+```
+
+---
+
+## 🍴 How to Fork This Repository
+
+Want to use or contribute to this project? Follow the steps below to fork and work with your own copy.
+
+### 🔗 Repository URL
+**https://github.com/shaina-gh/AES**
+
+---
+
+### 🔄 Step-by-Step Instructions
+
+1. **Login to GitHub** and go to the repo: [shaina-gh/AES](https://github.com/shaina-gh/AES)
+2. Click the **"Fork"** button at the top-right corner.
+3. GitHub will create a **copy under your own account**.
+
+---
+
+### 🧪 After Forking – Get Started Locally
+
+```bash
+# 1. Clone your forked repository
+git clone https://github.com/YOUR-USERNAME/AES.git
+
+# 2. Navigate into the project directory
+cd AES
+
+# 3. Compile and run the project
+javac SimplifiedAES128.java
+java SimplifiedAES128
+```
+
 
 
 
